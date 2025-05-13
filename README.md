@@ -117,6 +117,10 @@ La arquitectura propuesta es:
 * **Didáctica:** Útil como referencia para enseñar conceptos clave de programación moderna.
 
 ## 🤖 Consideraciones sobre el uso de herramientas de IA
+
+- DeepMind. (2018). Investigación en IA para la salud y aplicaciones clínicas [Iniciativas en colaboración con sistemas de salud].
+- Google. (2024). Gemini [Modelo de IA avanzada para aplicaciones en el dominio médico].
+
 Durante el desarrollo de este proyecto se utilizó una herramienta de Inteligencia Artificial como apoyo para:
 
 * Estructuración y revisión técnica del código.
